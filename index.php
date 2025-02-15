@@ -1,11 +1,11 @@
-<?php
+*✓<?php
 
 /**
  * Plugins index file
  * 
- * PHP version 8.0
+ * PHP *version 8.0
  * 
- * @category  PLugins
+ * @category  *PLugins
  * @package   Wordpress
  * @author    Pejman Kheyri <pejmankheyri@gmail.com>
  * @copyright 2021 All rights reserved.
