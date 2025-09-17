@@ -1,12 +1,12 @@
 {
-    "name": "pejmankheyri/bank-ayandeh-wallet-qrpayment-woocommerce",
+    "name": "abbasbaderestani/bank-ayandeh-wallet-qrpayment-woocommerce",
     "description": "woocommerce wallet payment for hamrah card of bank ayandeh",
     "keywords": ["woocommerce", "e-commerce", "woocommerce-persian", "payment", "bank", "ayandeh", "wallet", "hamrah-card"],
     "license": "MIT",
     "authors": [
         {
-            "name": "pejmankheyri",
-            "email": "pejmankheyri@gmail.com"
+            "name": "abbasbaderestani",
+            "email": "abbasbaderestani@gmail.com"
         }
     ],
     "require": {
